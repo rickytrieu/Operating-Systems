@@ -1,2 +1,3 @@
 # Operating-Systems
 Windows has a lot of functions for your computer. You need an operating system to use applications and to run output devices. without windows, you cannot do any of these. Windows is the main reason on how your computer is running and is well known since almost everyone uses it.
+Mac OS is similar to windows but is way different. It has the same purpose and functions but a very different look and is more hard to use in my opinion since everyone is used to windows. Both windows and mac OS operating system monitor the software needs and what the hardware can provide. mac OS has applications that windows doesn't have for an everyday work life.
